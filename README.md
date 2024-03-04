@@ -1,4 +1,4 @@
-# Writeups Commands
+# Writeups Command
  
 Writeups everything that I have learned about command line.
 
