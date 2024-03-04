@@ -6,22 +6,32 @@ Press Windows+R key, type `cmd` and press Enter.
 
 * For 64bit system
 
-	```cd %ProgramFiles%\Microsoft Office\Office16```
+	```
+	cd %ProgramFiles%\Microsoft Office\Office16
+	```
 
 * For 32bit system
 
-	```cd %ProgramFiles(x86)%\Microsoft Office\Office16```
+	```
+	cd %ProgramFiles(x86)%\Microsoft Office\Office16
+	```
 
 ## Office 2013
 
 * For 64bit system
 
-	```cd %ProgramFiles%\Microsoft Office\Office15```
+	```
+	cd %ProgramFiles%\Microsoft Office\Office15
+	```
 
 * For 32bit system
 
-	```cd %ProgramFiles(x86)%\Microsoft Office\Office15```
+	```
+	cd %ProgramFiles(x86)%\Microsoft Office\Office15
+	```
 
 ## Script Check
 
-```cscript ospp.vbs /dstatus```
+```
+cscript ospp.vbs /dstatus
+```
