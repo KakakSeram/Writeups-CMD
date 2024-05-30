@@ -1,4 +1,4 @@
-# Change Default User Account Kali
+# Change Default User Account on Kali Linux
 
 Running this on a fresh Kali installation. 
 Login as kali user and run these commands to add a new default user:
