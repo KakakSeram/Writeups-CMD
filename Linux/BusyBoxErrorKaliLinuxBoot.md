@@ -2,7 +2,7 @@
 
 BusyBox Error on Kali Linux Boot and show initramfs prompt
 
-![BusyBox-1](./images/BusyBox-1.png)
+![BusyBox](./images/BusyBox.png)
 
 ```
 1. exit 

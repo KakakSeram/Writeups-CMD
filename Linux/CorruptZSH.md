@@ -2,7 +2,7 @@
 
 If you use zsh for your shell very occasionally you may find the following message appearing indicating a corrupt history file.
 
-![CorruptZSH](./images/CorruptZSH.png)
+![CorruptedZSH](./images/CorruptedZSH.png)
 
 To fix it run the following commands
 
